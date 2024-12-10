@@ -1,9 +1,9 @@
- import React from 'react'
- import Image from 'next/image';
- import { Button } from '@/components/ui/button';
- import { IoCartOutline } from "react-icons/io5";
+import React from 'react'
+import Image from 'next/image';
+import { Button } from '@/components/ui/button';
+import { IoCartOutline } from "react-icons/io5";
 import Footer from '@/components/Footer';
- 
+import Link from 'next/link'; 
 const Sale = () => {
   return (
     <section className="text-black p-3">
