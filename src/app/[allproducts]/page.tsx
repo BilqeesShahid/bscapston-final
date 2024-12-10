@@ -277,19 +277,18 @@ const AllProducts = () => {
         {/* Text List Section */}
         <div className="w-full lg:w-[260px] p-4 border-b lg:border-none">
           <ul className="list-disc pl-5 space-y-2">
-            <li>Shoes</li>
+           <li>Shoes</li>
             <li>Sports Bras</li>
             <li>Tops &#38; T&#45;shirts</li>
-            <li>Jackets &#38; Outerwear</li>
-            <li>Activewear</li>
-            <li>Pants &#38; Shorts</li>
-            <li>Leggings</li>
-            <li>Swimwear</li>
-            <li>Accessories</li>
-            <li>Bags &#38; Backpacks</li>
-            <li>Hats</li>
+            <li>Hoodies &#38; Sweatshirts</li>
+            <li>Jackets</li>
+            <li>Trousers &#38; Tights</li>
+            <li>Shorts</li>
+            <li>Tracksuits</li>
+            <li>Jumpsuits  &#38; Rompers</li>
+            <li>Skirts &#38; Dresses</li>
             <li>Socks</li>
-            <li>Jewelry</li>
+            <li>Accessories &#38; Equipment</li>
           </ul>
 
           <div className="mt-12 border-t-2 border-b-2 p-2">
