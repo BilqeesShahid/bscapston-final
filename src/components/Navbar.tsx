@@ -51,11 +51,12 @@ const Navbar = () => {
         </div>
 
         {/* Icons */}
-        <div className="hidden md:flex items-center text-gray-500 text-[24px] gap-6">
+         <div className="flex md:flex items-center text-gray-500 text-[24px] gap-6">
           <CiHeart />
-          <IoBagOutline />
+          <Link href="/addtobag">
+            <IoBagOutline className="cursor-pointer" />
+          </Link>
         </div>
-
         {/* Hamburger Menu */}
         <div className="md:hidden flex items-center">
           <button onClick={toggleMenu} aria-label="Toggle menu">
