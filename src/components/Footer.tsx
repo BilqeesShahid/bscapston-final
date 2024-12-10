@@ -112,7 +112,7 @@ const Footer = () => {
             <Link href="/" className="flex items-center">
               <Image src="/footer1.png" alt="logo1" width={20} height={18} />
             </Link>
-            <span className="text-[12px] text-white">India</span>
+            <span className="text-[12px] text-white">Pakistan</span>
           </div>
 
           {/* Copyright */}
