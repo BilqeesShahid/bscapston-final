@@ -28,7 +28,7 @@ const Header = () => {
       </div>
 
       {/* Mobile Layout */}
-      <div className="md:hidden flex flex-col items-center py-2 space-y-2">
+      <div className="md:hidden flex justify-evenly items-center py-2">
         <a href="#" className="hover:underline text-sm">Find a Store</a>
         <a href="/help" className="hover:underline text-sm">Help</a>
         <a href="/joinus" className="hover:underline text-sm">Join Us</a>
