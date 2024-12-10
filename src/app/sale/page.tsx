@@ -32,10 +32,12 @@ const Sale = () => {
           <p className="mt-6 mb-4 text-lg sm:text-xl font-poppins lg:text-3xl font-medium ">
             ₹ 8,695.00
           </p>
-          <Button className="bg-black mt-5 text-white hover:text-black rounded-[30px] w-[175px] h-[45px] px-6 py-3 flex items-center justify-center">
-            <IoCartOutline size={50} />
-            Add to Cart
-          </Button>
+         <Link href="/addtobag">
+      <Button className="bg-black mt-5 text-white hover:text-black rounded-[30px] w-[175px] h-[45px] px-6 py-3 flex items-center justify-center">
+        <IoCartOutline size={50} />
+        Add to Cart
+      </Button>
+    </Link>
         </div>
       </div>
       <Footer/>
