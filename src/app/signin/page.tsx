@@ -1,7 +1,7 @@
 "use client"
 import { useState } from 'react';
 import { SiNike } from 'react-icons/si';
-import Footer from '@/components/Footer';  // Make sure to adjust the path as per your file structure
+import Footer from '@/components/Footer'; 
 
 const SignIn = () => {
   const [email, setEmail] = useState('');
