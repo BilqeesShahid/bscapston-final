@@ -3,7 +3,7 @@ import React from 'react'
 import { BiRectangle } from "react-icons/bi";
 
 
-// Sample data for images and details
+
 const productData = [
   {
     id: 1,
@@ -366,11 +366,11 @@ const AllProducts = () => {
           <button className="px-4 py-2 text-[12px] font-normal border border-[#CCCCCC] text-black rounded-full hover:bg-gray-300">New Football Shoes</button>
           <button className="px-4 py-2 text-[12px] font-normal border border-[#CCCCCC] text-black rounded-full hover:bg-gray-300">New Men's Shoes</button>
           <button className="px-4 py-2 text-[12px] font-normal border border-[#CCCCCC] text-black rounded-full hover:bg-gray-300">New Running Shoes</button>
-<button className="px-4 py-2 text-[12px] font-normal border border-[#CCCCCC] text-black rounded-full hover:bg-gray-300">Best Men's Shoes</button>
-<button className="px-4 py-2 text-[12px] font-normal border border-[#CCCCCC] text-black rounded-full hover:bg-gray-300">New Jordan Shoes</button>
-<button className="px-4 py-2 text-[12px] font-normal border border-[#CCCCCC] text-black rounded-full hover:bg-gray-300">Best Women's Shoes</button>
-<button className="px-4 py-2 text-[12px] font-normal border border-[#CCCCCC] text-black rounded-full hover:bg-gray-300">Best Training & Gym</button>
-          {/* Add remaining buttons */}
+          <button className="px-4 py-2 text-[12px] font-normal border border-[#CCCCCC] text-black rounded-full hover:bg-gray-300">Best Men's Shoes</button>
+          <button className="px-4 py-2 text-[12px] font-normal border border-[#CCCCCC] text-black rounded-full hover:bg-gray-300">New Jordan Shoes</button>
+          <button className="px-4 py-2 text-[12px] font-normal border border-[#CCCCCC] text-black rounded-full hover:bg-gray-300">Best Women's Shoes</button>
+          <button className="px-4 py-2 text-[12px] font-normal border border-[#CCCCCC] text-black rounded-full hover:bg-gray-300">Best Training & Gym</button>
+        
         </div>
       </div>
       <Footer/>
