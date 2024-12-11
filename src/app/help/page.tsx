@@ -16,13 +16,13 @@ const HelpPage = () => {
 
   const handleSearch = () => {
     console.log("Searching for:", searchQuery);
-    // Add your search logic here
+    
   };
 
   return (
     <>
     <div className="min-h-screen flex flex-col items-center">
-      {/* GET HELP Heading */}
+      {/* HELP Heading */}
       <h1 className="text-xl lg:text-[32px] font-medium mt-12 mb-8">GET HELP</h1>
 
       {/* Search Box with Icon Inside */}
