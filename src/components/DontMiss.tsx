@@ -28,7 +28,7 @@ const DontMiss = () => {
   Your built&#45;to&#45;last, all&#45;week wears&#45;but with style only Jordan Brand can deliver.
   </p>
 
-  {/* Flex container for buttons */}
+
   
     {/* Button 1 */}
     <div className="w-auto mt-6">
