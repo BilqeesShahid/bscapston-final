@@ -18,25 +18,25 @@ const productData = [
     id: 2,
     image: '/p2.png',
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07',
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$149.99',
   },
   {
     id: 3,
-    image: '/p3.png', // Change to actual image path
+    image: '/p3.png', 
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07',
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$79.99',
   },
   {
     id: 4,
-    image: '/p4.png', // Change to actual image path
+    image: '/p4.png', 
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$120.00',
@@ -54,25 +54,25 @@ const productData = [
     id: 6,
     image: '/p6.png',
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$149.99',
   },
   {
     id: 7,
-    image: '/p7.png', // Change to actual image path
+    image: '/p7.png', 
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$79.99',
   },
   {
     id: 8,
-    image: '/p8.png', // Change to actual image path
+    image: '/p8.png', 
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$120.00',
@@ -90,25 +90,25 @@ const productData = [
     id: 10,
     image: '/p10.png',
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$149.99',
   },
   {
     id: 11,
-    image: '/p11.png', // Change to actual image path
+    image: '/p11.png', 
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$79.99',
   },
   {
     id: 12,
-    image: '/p12.png', // Change to actual image path
+    image: '/p12.png',
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$120.00',
@@ -126,25 +126,25 @@ const productData = [
     id: 14,
     image: '/p14.png',
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$149.99',
   },
   {
     id: 15,
-    image: '/p15.png', // Change to actual image path
+    image: '/p15.png', 
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$79.99',
   },
   {
     id: 16,
-    image: '/p16.png', // Change to actual image path
+    image: '/p16.png', 
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$120.00',
@@ -162,23 +162,23 @@ const productData = [
     id: 18,
     image: '/p18.png',
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$149.99',
   },
   {
     id: 19,
-    image: '/p19.png', // Change to actual image path
+    image: '/p19.png', 
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07',
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$79.99',
   },
   {
     id: 20,
-    image: '/p19.png', // Change to actual image path
+    image: '/p19.png', 
     info:"Just In ",
     maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
     title: 'Mens Shoes',
@@ -198,25 +198,25 @@ const productData = [
     id: 22,
     image: '/p22.png',
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$149.99',
   },
   {
     id: 23,
-    image: '/p23.png', // Change to actual image path
+    image: '/p23.png',
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$79.99',
   },
   {
     id: 24,
-    image: '/p24.png', // Change to actual image path
+    image: '/p24.png', 
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$120.00',
@@ -234,16 +234,16 @@ const productData = [
     id: 26,
     image: '/p26.png',
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$149.99',
   },
   {
     id: 27,
-    image: '/p27.png', // Change to actual image path
+    image: '/p27.png', 
     info:"Just In ",
-    maintitle: 'Nike Air Force 1 Mid 07', // Change to actual image path
+    maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
     colors: ['1', '2'],
     price: '$79.99',
