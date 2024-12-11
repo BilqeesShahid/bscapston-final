@@ -6,11 +6,7 @@ const Featured = () => {
     <>
     <main className="w-full h-full">
       <h1 className='text-[23px] font-medium mt-12'>Featured</h1>
-  
-      {/* Top Section */}
-      
-
-      {/* Hero Image */}
+       {/* Hero Image */}
       <div className="w-full">
         <Image
           src="/h2.jpg"
@@ -28,9 +24,9 @@ const Featured = () => {
   Cause everyone should know the feeling of running in that perfect pair.
   </p>
 
-  {/* Flex container for buttons */}
+
   
-    {/* Button 1 */}
+    {/* Button */}
     <div className="w-auto mt-6">
       <Button className="px-8 py-3 text-white hover:text-black bg-black rounded-full">
       Find Your Shoe
