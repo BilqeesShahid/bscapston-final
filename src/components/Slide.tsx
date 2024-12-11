@@ -11,10 +11,10 @@ interface PropsType {
 
 const Slide: React.FC<PropsType> = ({ img, title, mainTitle, price }) => {
   return (
-    <div className="relative flex flex-col justify-center items-center mx-2"> {/* Added margin for spacing between slides */}
+    <div className="relative flex flex-col justify-center items-center mx-2"> 
       {/* Image */}
       <Image
-        className="object-cover w-full h-[300px] md:h-[460px] mb-4" // Added margin to create space below the image
+        className="object-cover w-full h-[300px] md:h-[460px] mb-4" 
         src={img}
         alt="slider image"
         width={440}
