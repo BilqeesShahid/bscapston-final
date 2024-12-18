@@ -214,7 +214,7 @@ const productData = [
   },
   {
     id: 24,
-    image: '/p24.png', 
+    image: '/p24.jpg', 
     info:"Just In ",
     maintitle: 'Nike Air Force 1 Mid 07', 
     title: 'Mens Shoes',
